@@ -23,6 +23,10 @@
 
 ## Overview
 
+<p align="center">
+  <img width="2720" height="1680" alt="snowflake_data_loading_paths" src="https://github.com/user-attachments/assets/ab4f2432-f521-4aa2-8e73-552ceb52ae1c" />
+</p>
+
 ```mermaid
 flowchart TB
     A["Web Interface
