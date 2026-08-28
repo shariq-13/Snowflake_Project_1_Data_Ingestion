@@ -24,7 +24,8 @@
 ## Overview
 
 <p align="center">
-  <img width="2720" height="1680" alt="snowflake_data_loading_paths" src="https://github.com/user-attachments/assets/ab4f2432-f521-4aa2-8e73-552ceb52ae1c" />
+  <img width="828" height="816" alt="image" src="https://github.com/user-attachments/assets/8b97550d-53d7-4086-aae1-313927e1c3b4" />
+
 </p>
 
 ```mermaid
